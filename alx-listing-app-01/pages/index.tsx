@@ -1,4 +1,4 @@
-import PropertyPage from "./properties/[id]";
+import PropertyPage from "./property/[id]";
 
 import React from 'react'
 
